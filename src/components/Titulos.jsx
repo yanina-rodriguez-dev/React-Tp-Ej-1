@@ -1,8 +1,8 @@
 
 const Titulos = () => {
     return (
-        <section>
-            <h1>Hello world</h1>
+        <section className="container">
+            <h1 className="mt-5">¡Hello world!</h1>
         </section>
     );
 };
